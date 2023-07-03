@@ -3,3 +3,11 @@ body {color: #FFFFFF;
 .cabecalho-imagem{
     width: 20%;
 }
+.cabecalho {
+    background-color: blue;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+}
